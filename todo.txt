@@ -1,0 +1,25 @@
+Global list of TODO items of type: ALL
+Available with `N r': (0)[ALL]
+  cmd:        TODO [#A] Figure out Rhiza work schedule
+  cmd:        TODO [#A] Vacuum
+  cmd:        TODO [#A] Finances
+  cmd:        TODO [#A] Call Aetna re Malaysia
+  cmd:        TODO [#A] Finalize David Thomas plans
+  cmd:        TODO [#A] Re-activate FSA
+  cmd:        TODO [#A] Figure out Rhiza vacation/WFH dates
+  cmd:        TODO [#A] Claim kids' eye doctors at Aetna (see dbach@slack)
+  cmd:        TODO [#A] Claim ACHD at Aetna
+  cmd:        TODO [#A] Quick Weekly Review (esp. WORKING)
+  cmd:        TODO [#B] Call Taos for 401(k) transfer
+  cmd:        WAITING for Hyundai registration
+  cmd:        TODO Talk to PALAT about putting  Rhiza review comment (re: disambiguate) on LinkedIn
+  cmd:        TODO Print contact form
+  cmd:        TODO Call REI re: Malaysia
+  cmd:        TODO Call Asurion re: Malaysia
+  cmd:        TODO Talk to USENIX peeps about a job
+  cmd:        TODO Call O'Hara re David
+  cmd:        TODO Bring home Mac charger
+  cmd:        TODO Give key to David
+  cmd:        TODO Register for fall soccer
+  cmd:        TODO Budget for alephant.net
+  cmd:        TODO Renew alephant.net
