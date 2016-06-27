@@ -243,41 +243,51 @@ SCHEDULED: <2016-07-11 Mon>
 SCHEDULED: <2016-07-11 Mon>
 * TODO Renew alephant.net
 SCHEDULED: <2016-08-01 Mon>
-
+* TODO Futz with org-mode faces
 
 * Org and my phone
 ** Gosh, wouldn't it be interesting to export org to the cloud?
 *** Whenever I update
-**** dropbox
-***** - yet another third-party; tricky authnz
-***** + automagic update
-**** git push?
-***** + travis
-***** - manual
-**** an org trigger?
+**** archived/rejected ideas
+***** dropbox
+****** - yet another third-party; tricky authnz
+****** + automagic update
+***** git push?
+****** + travis
+****** - manual
+***** a local cronjob
+****** - outside of codebase
+****** + simple to implement
+**** an emacs trigger?
 ***** + inside codebase
-***** - grotty
-***** see e.g. https://github.com/fniessen/orgmk
-**** a local cronjob
-***** - outside of codebase
-***** + simple to implement
+***** + learn more lisp
+***** see e.g. [[https://github.com/fniessen/orgmk]]
+***** se[[e lisp:(info "(org) Exporting agenda views")]]
+****** - it requires a separate action 
+. . . and, as we all know, manual processes never occur.
 *** the agenda is exported
+**** directly to s3
 **** a lambda function notices the s3 bucket and renders it
 **** a lambda function via api gateway
-**** travis simply renders to s3
+**** github "raw" view
+***** - requires a `git push`, which I might not be ready to do
 *** with responsive css
 **** See https://github.com/fniessen/org-html-themes
 **** or worst case, this is merely plaintext--it's better than nothing
 *** referenced by a route53 record
-** What I need on the phone is read-only
-** Capture should be easy
-*** just get it into an inbox
+** I just need a read-only view on the phone
 *** and perhaps the html export could generate an "change X to DONE" item
+** Capture is via email or whatever is handy
+
 
 * The secret sauce isn't input, output, or processing, it's focus
-** The problem with the ever-growing-list-of-doom is that it's ever-growing
-** None of this shit would be a problem if I had my priorities in order
-*** (which is exactly what David Allen stresses)
+** The problem with the ever-growing-list-of-doom 
+*** is that it's ever-growing
+*** it becomes paralyzing
+*** None of this shit would be a problem if I had my priorities in order
+**** (which is exactly what David Allen stresses)
+*** Rather than a precompiled list of actions it becomes a list of possibilities
+**** Which isn't what I want when I'm in execution-mode
 ** I can let go of things, if I know they'll be there for me
 *** Imagine that the SOMEDAY-MAYBE is actually an index of diary entries
 **** Why does everything come back to writing?!
@@ -286,5 +296,4 @@ SCHEDULED: <2016-08-01 Mon>
 *** Say "No" to as much as possible
 **** Or find a fulcrum to get it done without effort
 ***** Outsource Your World
-
 
