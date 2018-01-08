@@ -1,299 +1,175 @@
-#+PROPERTY: Effort_ALL 0 0:10 0:30 1:00 2:00 3:00 4:00 5:00 6:00 7:00
+#                      1    2    3    4    5    6    7    8    9    0  
+#+PROPERTY: Effort_ALL 0:10 0:30 1:00 1:30 2:00 2:30 3:00 4:00 5:00 0
 #+COLUMNS: %40ITEM(Task) %1PRIORITY %17Effort(Estimated Effort){:} %CLOCKSUM
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
+ #+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
 
-* DONE Overhaul FROGHOPPER userdb backups for rhiza-ads and postgresql
-CLOSED: [2016-06-16 Thu 09:34] SCHEDULED: <2016-06-16 Thu>
+
+* Tickler
+** TODO [#A] Weekly review [0%]
+SCHEDULED: <2018-01-12 Fri +1w>
 :PROPERTIES:
+:LAST_REPEAT: [2018-01-05 Fri 16:23]
 :Effort:   1:00
 :END:
-- State "DONE"       from "TODO"       [2016-06-16 Thu 09:34]
-* DONE [#A] Call AWS re WTF METROPOLIS maint window
-CLOSED: [2016-06-15 Wed 13:15] SCHEDULED: <2016-06-15 Wed>
-:PROPERTIES:
-:Effort:   0:30
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2018-01-05 Fri 16:23]
+- State "DONE"       from "TODO"       [2017-12-29 Fri 15:56]
+- State "DONE"       from "TODO"       [2017-11-17 Fri 15:24]
+- State "DONE"       from "TODO"       [2017-11-10 Fri 17:05]
+- State "DONE"       from "TODO"       [2017-06-16 Fri 15:56]
+- State "DONE"       from "TODO"       [2017-04-17 Mon 15:57]
+- State "DONE"       from "TODO"       [2017-01-08 Sun 21:27]
+- State "DONE"       from "TODO"       [2016-10-31 Mon 15:17]
+- State "DONE"       from "TODO"       [2016-08-22 Mon 11:13]
+- State "DONE"       from "TODO"       [2016-08-22 Mon 11:13]
+- State "DONE"       from "TODO"       [2016-08-22 Mon 11:10]
+CLOCK: [2016-08-22 Mon 10:37]--[2016-08-22 Mon 11:10] =>  0:33
+CLOCK: [2016-08-22 Mon 10:00]--[2016-08-22 Mon 10:37] =>  0:37
+CLOCK: [2016-08-22 Mon 09:54]--[2016-08-22 Mon 09:54] =>  0:00
+- State "DONE"       from "TODO"       [2016-08-02 Tue 16:59]
+CLOCK: [2016-08-02 Tue 15:30]--[2016-08-02 Tue 16:59] =>  1:29
 :END:
-- State "DONE"       from "TODO"       [2016-06-15 Wed 13:15]
-* DONE [#B] Update resume (migration.py OPS tf)
-CLOSED: [2016-06-15 Wed 23:59] SCHEDULED: <2016-06-15 Wed>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-- State "DONE"       from "TODO"       [2016-06-15 Wed 23:59]
-* DONE [#A] Cable conference room A/V
-SCHEDULED: <2016-06-14 Tue>
-:PROPERTIES:
-:Effort:   3:00
-:END:
-- State "DONE"       from "DONE"       [2016-06-14 Tue 13:53]
-- State "DONE"       from "TODO"       [2016-06-14 Tue 13:53]
-- State "DONE"       from "TODO"       [2016-06-14 Tue 00:12]
-* DONE [#A] Reach out to Chris Waters
-CLOSED: [2016-06-16 Thu 09:45] SCHEDULED: <2016-06-16 Thu>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-16 Thu 09:45]
-* DONE [#A] Fix UserDB dumps on FROGHOPPER
-CLOSED: [2016-06-15 Wed 20:42] SCHEDULED: <2016-06-15 Wed>
-- State "DONE"       from "TODO"       [2016-06-15 Wed 20:42]
-* DONE [#A] Gotham-2
-SCHEDULED: <2016-06-14 Tue>
-:PROPERTIES:
-:Effort:   2:00
-:END:
-- State "DONE"       from "TODO"       [2016-06-14 Tue 16:51]
-* DONE [#A] Gotham-2
-CLOSED: [2016-06-15 Wed 20:41] SCHEDULED: <2016-06-15 Wed>
-:PROPERTIES:
-:Effort:   3:00
-:END:
-- State "DONE"       from "TODO"       [2016-06-15 Wed 20:41]
-* DONE [#A] Submit FSA documentation
-CLOSED: [2016-06-20 Mon 09:48] SCHEDULED: <2016-06-15 Wed>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-- State "DONE"       from "TODO"       [2016-06-20 Mon 09:48]
-* DONE [#B] Schedule haircut for Sat AM / Friday night
-CLOSED: [2016-06-17 Fri 10:21] SCHEDULED: <2016-06-17 Fri>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-17 Fri 10:21]
-* DONE [#A] Gotham-2
-CLOSED: [2016-06-22 Wed 12:28] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   3:00
-:END:
-- State "DONE"       from "TODO"       [2016-06-22 Wed 12:28]
-- State "DONE"       from "TODO"       [2016-06-15 Wed 20:41]
-* DONE [#A] Call Warby Parker
-CLOSED: [2016-06-20 Mon 13:10] SCHEDULED: <2016-06-20 Mon>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-20 Mon 13:10]
-* DONE [#A] Plan ACHD shots with Yani
-CLOSED: [2016-06-20 Mon 13:03] SCHEDULED: <2016-06-20 Mon>
-- State "DONE"       from "TODO"       [2016-06-20 Mon 13:03]
-* DONE [#A] Call Aetna re: Warby Parker
-CLOSED: [2016-06-20 Mon 13:08] SCHEDULED: <2016-06-20 Mon>
-:PROPERTIES:
-:Effort:   0:07
-:END:
-- State "DONE"       from "TODO"       [2016-06-20 Mon 13:08]
-* DONE [#A] Call FiOS re renewal
-CLOSED: [2016-06-20 Mon 14:01] SCHEDULED: <2016-06-20 Mon>
-:PROPERTIES:
-:Effort:   0:15
-:END:
-- State "DONE"       from "TODO"       [2016-06-20 Mon 14:01]
-* DONE [#B] Renew OXPECKER registration
-CLOSED: [2016-06-22 Wed 12:58] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-22 Wed 12:58]
-* DONE [#A] MDD re housesitter legalities
-CLOSED: [2016-06-23 Thu 00:18] SCHEDULED: <2016-06-23 Thu>
-- State "DONE"       from "TODO"       [2016-06-23 Thu 00:18]
-* DONE [#A] Call Dollar Bank re: Malaysia
-CLOSED: [2016-06-22 Wed 14:38] SCHEDULED: <2016-06-22 Wed>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-22 Wed 14:38]
-* DONE [#A] VZW suspend & remove $11
-CLOSED: [2016-06-22 Wed 13:01] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   0:15
-:END:
-- State "DONE"       from "TODO"       [2016-06-22 Wed 13:01]
-* DONE [#A] Call Aetna re: ACHD
-CLOSED: [2016-06-20 Mon 13:08] SCHEDULED: <2016-06-20 Mon>
-:PROPERTIES:
-:Effort:   0:07
-:END:
-- State "DONE"       from "TODO"       [2016-06-20 Mon 13:08]
-* DONE [#A] MAD for ACHD check
-CLOSED: [2016-06-21 Tue 09:30] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   0:05
-:END:
-- State "DONE"       from "TODO"       [2016-06-21 Tue 09:30]
-* DONE Scan review
-CLOSED: [2016-06-24 Fri 13:52] SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:01
-:END:
-- State "DONE"       from "TODO"       [2016-06-24 Fri 13:52]
-* DONE [#B] Figure out which PC laptop to take to Malaysia
-CLOSED: [2016-06-22 Wed 12:28] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   0:15
-:END:
-- State "DONE"       from "TODO"       [2016-06-22 Wed 12:28]
-* DONE Call USairways re: Malaysia
-CLOSED: [2016-06-23 Thu 13:01] SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-23 Thu 13:01]
-* DONE Print boarding passes / itinerary
-CLOSED: [2016-06-24 Fri 13:42] SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-24 Fri 13:42]
-* DONE [#A] Call Warby Parker WTF
-CLOSED: [2016-06-21 Tue 16:24] SCHEDULED: <2016-06-21 Tue>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-21 Tue 16:24]
-* DONE [#B] Call Pianos n Stuff
-CLOSED: [2016-06-24 Fri 13:52] SCHEDULED: <2016-06-24 Fri>
-:PROPERTIES:
-:Effort:   0:02
-:END:
-- State "DONE"       from "TODO"       [2016-06-24 Fri 13:52]
-* DONE [#B] Reschedule WIN CrashPlan
-CLOSED: [2016-06-26 Sun 12:39] SCHEDULED: <2016-06-27 Mon>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-- State "DONE"       from "TODO"       [2016-06-26 Sun 12:39]
-:PROPERTIES:
-:Effort:   05
-:END:
+- [ ] Paper
+  - [ ] Notebook
+  - [ ] Backpack
+  - [ ] IN
+  - [ ] WORKING
+- [ ] Photostream
+- [ ] Google Keep
+- [ ] Evernote (“All Notes” view sorted by date since they don’t always go into INBOX)
+- [ ] Desktop/Spaces
+- [ ] Browser tabs
+- [ ] Calendar
+- [ ] Email incl. snoozed
+- [ ] Voicemail
+- [ ] All tasks
+  Say "no" to as much as possible--convert to notes
+  If it's TODO, it should be scheduled
+*** Dread in the list-of-dread comes from over-commitment, under-planning, and AWOL priorities. :NOTE:
+<2017-01-08>
+*** The secret sauce isn't input, output, or processing, it's focus :NOTE:
+**** The problem with the ever-growing-list-of-doom
+***** is that it's ever-growing
+***** it becomes paralyzing
+***** Rather than a precompiled list of actions it becomes a list of possibilities
+****** Which isn't what I want when I'm in execution-mode
+***** None of this shit would be a problem if I had my priorities in order
+****** (which is exactly what David Allen stresses)
+****** (go read--finally!--7 Habits)
+**** I can let go of things, if I know they'll be there for me
+***** Imagine that the SOMEDAY-MAYBE is actually an index of diary entries
+****** Why does everything come back to writing?!
+****** And why can I never get myself to write?!?!?!
+***** If I can re-visit it, I can elaborate on it
+****** Dream to let it rest
+****** Evaluate for when to promote
+****** And if it won't stay sleeping, then it must be important
+**** This seems to imply that the critical part of the Weekly Review is DISPOSITION
+***** Say "No" to as much as possible
+****** Or find a fulcrum to get it done without effort
+******* Outsource Your World
+***** Of what's on my action list--what I'm committed to doing!
+***** Does this mean that I should be scheduling stuff
+If it's going to be done, put it on the calendar? If it's
+unscheduled--or if it keeps getting postponed--then decide not to do
+it, make it a diary entry?
+** TODO Renew MXD passport
+SCHEDULED: <2018-11-01 Mon>
+expires 04 Apr 2018
+** TODO Renew AYD passport
+SCHEDULED: <2021-08-01 Sun>
+expires 09 Feb 2022
+** TODO Renew JXD passport
+SCHEDULED: <2020-09-01 Tue>
+expires 28 Mar 2021
+** TODO Renew CMD passport
+SCHEDULED: <2025-09-01 Mon>
+expires 27 Mar 2026
+* Emacs
+** C-x r l ;; list bookmarks                                          :NOTE:
 
-* TODO [#A] Figure out Rhiza work schedule 
-SCHEDULED: <2016-06-25 Sat>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* TODO [#A] Vacuum
-SCHEDULED: <2016-06-27 Mon>
-* TODO [#A] Finances
-SCHEDULED: <2016-06-25 Sat>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* TODO [#A] Call Aetna re Malaysia
-SCHEDULED: <2016-06-27 Mon>
-:PROPERTIES:
-:Effort:   0:20
-:END:
-* TODO [#B] Call Taos for 401(k) transfer
-SCHEDULED: <2016-07-11 Mon>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-* TODO [#A] Finalize David Thomas plans
-SCHEDULED: <2016-06-25 Sat>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* TODO [#A] Re-activate FSA 
-SCHEDULED: <2016-06-27 Mon>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-* TODO [#A] Figure out Rhiza vacation/WFH dates
-SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* TODO [#A] Claim kids' eye doctors at Aetna (see dbach@slack)
-SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* TODO [#A] Claim ACHD at Aetna
-SCHEDULED: <2016-06-23 Thu>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-* WAITING for Hyundai registration
-* TODO Talk to PALAT about putting  Rhiza review comment (re: disambiguate) on LinkedIn
-* TODO Print contact form 
-SCHEDULED: <2016-06-27 Mon>
-* TODO Call REI re: Malaysia
-SCHEDULED: <2016-06-28 Tue>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-* TODO Call Asurion re: Malaysia
-SCHEDULED: <2016-06-28 Tue>
-:PROPERTIES:
-:Effort:   0:10
-:END:
-* TODO Talk to USENIX peeps about a job
-* TODO Call O'Hara re David
-SCHEDULED: <2016-06-27 Mon>
-* TODO Bring home Mac charger
-SCHEDULED: <2016-06-27 Mon>
-* TODO Give key to David
-SCHEDULED: <2016-06-27 Mon>
-* TODO [#A] Quick Weekly Review (esp. WORKING)
-SCHEDULED: <2016-06-27 Mon>
-* TODO Register for fall soccer 
-SCHEDULED: <2016-07-11 Mon>
-* TODO Budget for alephant.net 
-SCHEDULED: <2016-07-11 Mon>
-* TODO Renew alephant.net
-SCHEDULED: <2016-08-01 Mon>
-* TODO Futz with org-mode faces
+d mark bookmark for deletion
+r rename bookmark
+s save all listed bookmarks
+f show bookmark the cursor is over
+m mark bookmarks to be shown in multiple window
+v show marked bookmarks (or the one the cursor is over)
+t toggle listing of the corresponding paths
+w " path to this file
+x delete marked bookmarks
+q quit bookmark list
 
-* Org and my phone
-** Gosh, wouldn't it be interesting to export org to the cloud?
-*** Whenever I update
-**** archived/rejected ideas
-***** dropbox
-****** - yet another third-party; tricky authnz
-****** + automagic update
-***** git push?
-****** + travis
-****** - manual
-***** a local cronjob
-****** - outside of codebase
-****** + simple to implement
-**** an emacs trigger?
-***** + inside codebase
-***** + learn more lisp
-***** see e.g. [[https://github.com/fniessen/orgmk]]
-***** se[[e lisp:(info "(org) Exporting agenda views")]]
-****** - it requires a separate action 
-. . . and, as we all know, manual processes never occur.
-*** the agenda is exported
-**** directly to s3
-**** a lambda function notices the s3 bucket and renders it
-**** a lambda function via api gateway
-**** github "raw" view
-***** - requires a `git push`, which I might not be ready to do
-*** with responsive css
-**** See https://github.com/fniessen/org-html-themes
-**** or worst case, this is merely plaintext--it's better than nothing
-*** referenced by a route53 record
-** I just need a read-only view on the phone
-*** and perhaps the html export could generate an "change X to DONE" item
-** Capture is via email or whatever is handy
+** C-c C-z (add a C-z when in tmux) adds a timestamped note in a drawer
+:LOGBOOK:
+- Note taken on [2016-08-03 Wed 00:51] \\
+  Like this!
+:END:
+** `archive-subtree` is on C-c C-x C-s 
 
+** About emacsclient in tty and cocoa simultaneously                  :NOTE:
 
-* The secret sauce isn't input, output, or processing, it's focus
-** The problem with the ever-growing-list-of-doom 
-*** is that it's ever-growing
-*** it becomes paralyzing
-*** None of this shit would be a problem if I had my priorities in order
-**** (which is exactly what David Allen stresses)
-*** Rather than a precompiled list of actions it becomes a list of possibilities
-**** Which isn't what I want when I'm in execution-mode
-** I can let go of things, if I know they'll be there for me
-*** Imagine that the SOMEDAY-MAYBE is actually an index of diary entries
-**** Why does everything come back to writing?!
-**** And why can I never get myself to write?!?!?!
-** This seems to imply that the critical part of the Weekly Review is DISPOSITION
-*** Say "No" to as much as possible
-**** Or find a fulcrum to get it done without effort
-***** Outsource Your World
+[2016-08-10 Wed 16:03]
 
+https://www.reddit.com/r/emacs/comments/22je26/os_x_emacs_in_daemon_mode_and_emacsclient/
+
+* Finance
+** Finance armageddon
+*** Should I get credit counseling to lower interest rates?
+*** Ask /r/ynab how to budget/cashflow for bi-monthly pay
+*** YNAB re how to progress towards last-month salary vs. debt service
+*** Reddit re: savings vs. snowball
+*** Roll snowball into bill chart
+** Call Pinnacle for better rates                                    :PHONE:
+* Health
+** Update expired pills in car first-aid kit
+* Rhiza
+* Job
+** John Arrasjid--how to career plan--want to always do, never want to do, etc.
+** Datadog
+** Gruntwork
+** Pythian
+** Talk to USENIX peeps about a job
+** Hashicorp
+** Talk to PETERSON
+** OpenArc
+** Aaron Morris
+** GEMPERLE
+** CASEBEER to push Marc Fox
+** What did PETERSON mean by "good storyteller"?
+** Red Hat
+Ryan Jarvinen <ryanj@redhat.com>
+** Taos
+** Azure SRE
+** LinkedIn
+** Nielsen HR
+** Heavy Water
+** Jeff Senn
+** Talk to Tech Ops group (Greg Dumont & Gautham)
+** Talk to Gautham about AI
+** Gallup Strengths Finder
+
+* Books
+** _Wildwood_ series
+** Leadership and Self-Desception
+** Dweck, _Mindset_
+** Pink, _Drive_
+** How Buildings Learn
+** A Separate Peace
+** The American Boy's Handy Book
+** The Last Mission
+** The Red Badge of Courage
+** Watership Down
+** Tom Sawyer
+** Huck Finn
+** Canoeing with the Cree
+** The Giver
+** Lord of the Flies
+** Holes
+** The Trumpet of the Swan
+** Ender's Game
+** The Indian in the Cupboard
+** The Black Stallion
+** The Cay
+** The Thief of Always
+** Harvard Business Review
