@@ -131,7 +131,6 @@ https://www.reddit.com/r/emacs/comments/22je26/os_x_emacs_in_daemon_mode_and_ema
 ** Pythian
 ** Talk to USENIX peeps about a job
 ** Hashicorp
-** Talk to PETERSON
 ** OpenArc
 ** Aaron Morris
 ** GEMPERLE
